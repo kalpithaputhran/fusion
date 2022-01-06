@@ -14,7 +14,7 @@ $admin=new Admin();
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Fusion   | Home</title>
+    <title>Fusion  | Home</title>
     <meta name="description" content="Resto">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -146,7 +146,7 @@ $admin=new Admin();
                 </li>
                 <div class="d-flex flex-lg-row flex-column">
                     <li class="nav-item active">
-                        <a class="nav-link" href="index.php">Home <span class="sr-only"></span></a>
+                        <a class="nav-link" href="index.php">House <span class="sr-only"></span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about.php">About</a>
