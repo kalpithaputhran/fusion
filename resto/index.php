@@ -146,7 +146,7 @@ $admin=new Admin();
                 </li>
                 <div class="d-flex flex-lg-row flex-column">
                     <li class="nav-item active">
-                        <a class="nav-link" href="index.php">House <span class="sr-only"></span></a>
+                        <a class="nav-link" href="index.php">Home <span class="sr-only"></span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about.php">About</a>
